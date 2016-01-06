@@ -1,2 +1,2 @@
 # android-algorithm
-The based algorithms show with Android
+Some common algorithm show with Android
